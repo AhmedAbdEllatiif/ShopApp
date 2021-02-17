@@ -10,8 +10,6 @@ alt="home" height="650" width="300">
 alt="home" height="650" width="300">
 <img src="https://user-images.githubusercontent.com/40568882/108256546-544f0600-7166-11eb-8a47-876679977d74.jpg" 
 alt="home" height="650" width="300">
-<img src="(https://user-images.githubusercontent.com/40568882/108256534-52854280-7166-11eb-8927-27b08d0c03bb.jpg" 
-alt="home" height="650" width="300">
 <img src="https://user-images.githubusercontent.com/40568882/108256535-52854280-7166-11eb-97f7-70334f0c779d.jpg" 
 alt="home" height="650" width="300">
 <img src="https://user-images.githubusercontent.com/40568882/108256537-531dd900-7166-11eb-8b85-b96c2d0db1f0.jpg" 
